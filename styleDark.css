@@ -1,0 +1,14 @@
+footer,
+nav {
+    background: black;
+}
+
+footer h2,
+nav a {
+    color: white;
+}
+
+body {
+    background: #393b40a6;
+    color: azure;
+}
